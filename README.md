@@ -14,7 +14,7 @@
 
 </div>
 
-[Live Demo](https://pokemon-explorer-shalomtou.vercel.app/)
+[Live Demo](https://pokadex-mahc9qtsc-shaloms-projects-97b5bfe2.vercel.app/)
 
 ## 🌈 Features
 
